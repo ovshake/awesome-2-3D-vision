@@ -1,7 +1,8 @@
 # Awesome^2 3D vision
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome list of awesome 3D vision related repositories
+**Collecting all the different awesome lists related to 3D computer vision in a single place. 
+Awesome list of awesome 3D vision related repositories** 
 
 - [Awesome 3D Reconstruction Papers](https://github.com/bluestyle97/awesome-3d-reconstruction-papers) 
 - [Awesome 3D Human Reconstruction papers](https://github.com/rlczddl/awesome-3d-human-reconstruction)
